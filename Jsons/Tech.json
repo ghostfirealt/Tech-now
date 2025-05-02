@@ -640,14 +640,14 @@
 			},
 			{
 				"name": "Nuclear Fusion",
-        "cost":999999,
+        "cost":999999999999999,
 				"row": 6,
 				"prerequisites": ["Advanced Ballistics", "Satellites", "Robotics"],
 				"quote": "'The release of atomic energy has not created a new problem. It has readily made more urgent the necessity of solving an existing one.' - Albert Einstein"
 			},
 			{
 				"name": "Nanotechnology",
-        "cost": 999999999,
+        "cost": 9999999999999999999999999999,
 				"row": 7,
 				"prerequisites": ["Robotics"],
 				"quote": "'The impact of nanotechnology is expected to exceed the impact that the electronics revolution has had on our lives.' - Richard Schwartz"
